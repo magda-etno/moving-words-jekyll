@@ -1,0 +1,13 @@
+Terminal:
+cd ~/Desktop/KikiMokoro/MY\ PROJECTS/moving-words-jekyll
+bundle exec jekyll serve
+
+(to quit press ctrl+c)
+
+Open in browser: http://127.0.0.1:4000/
+
+Downloaded from: https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll
+
+Source control (drzewko) po lewej, Commit changes adding a message, Push
+
+Netlify.com - check if it is building
